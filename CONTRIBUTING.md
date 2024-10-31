@@ -9,8 +9,8 @@ Please note we have a [Code of Conduct](#code-of-conduct), please follow it in a
 
 ## Pull Request Process
 
-1. Fork the repository. 
-2. Commit your changes to your fork. 
+1. Fork the repository.
+2. Commit your changes to your fork.
 3. Submit a pull request.
 4. Handle any feedback before the request is merged.
 5. Accept our sincere Thank You!
@@ -69,7 +69,7 @@ further defined and clarified by project maintainers.
 ### Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team on [Slack in the #code-of-conduct channel](https://callforcode.org/slack). 
+reported by contacting the project team on [Slack in the #code-of-conduct channel](https://callforcode.org/slack).
 
 All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
 
